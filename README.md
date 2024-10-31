@@ -1,11 +1,11 @@
 # Windows Keyboard Layout - United States (Italian)
 Windows offers a keyboard layout called "United States (International)" that makes typing accented special characters more convenient in order, for example, to write Italian words like `perché`, `più`, `però`, etc. 
-This layout marks some key as special keys called "dead keys", like the apostrophe `'` and quote `'`, which are used to add accents to some characters like `a`, `e`, `i`, `o` and `u`.
-In order to just input the apostrophe `'` and quote `'` characters you have to press the key and press `SPACE`, which can be very time consuming while writing, for example the words `i'll`, `don't`, etc.
+This layout marks some key as special keys called "dead keys", like the backtick `` ` `` and single quote `'`, which are used to add accents to some characters like `a`, `e`, `i`, `o` and `u`.
+In order to just input the backtick `` ` `` and single quote `'` characters you have to press the key and press `SPACE`, which can be very time consuming while writing, for example the words `i'll`, `don't`, etc.
 
 This repo allows you to install a customized layout to make writing in ITA-ENG easier.
 
-- Press the key to get `\``
+- Press the key to get `` ` ``
 - Press the key to get `'`
 - Press the key to get `"`
 - Press the key to get `~`
@@ -25,11 +25,11 @@ This repo allows you to install a customized layout to make writing in ITA-ENG e
 - `AltGr` + `Shift` + `u` to get `Ù`
 
 To compose accented characters with other characters, you can use the following combinations:
-- `AltGr` + `\`` + `a` = `à`
-- `AltGr` + `\`` + `e` = `è`
-- `AltGr` + `\`` + `i` = `ì`
-- `AltGr` + `\`` + `o` = `ò`
-- `AltGr` + `\`` + `u` = `ù`
+- `AltGr` + `` ` `` + `a` = `à`
+- `AltGr` + `` ` `` + `e` = `è`
+- `AltGr` + `` ` `` + `i` = `ì`
+- `AltGr` + `` ` `` + `o` = `ò`
+- `AltGr` + `` ` `` + `u` = `ù`
 - `AltGr` + `'` + `a` = `á`
 - `AltGr` + `'` + `e` = `é`
 - `AltGr` + `'` + `i` = `í`
